@@ -32,6 +32,7 @@ body {
 #area-lateral {
 	width: 240px;
 	float: right;
+	background: #FFF;
 }
 .postagem {
 	padding: 20px;
@@ -41,7 +42,6 @@ body {
 .texto-lateral, #postagem-lateral {
 	background: #FFF;
 	padding: 10px;
-	margin-bottom: 20px;
 }
 #rodape {
 	clear: both;
@@ -101,6 +101,5 @@ h3 {
 }
 .texto-lateral {
 	font-size: 0.8em;
-	padding: 5px;
 	border-bottom: 1px solid #565656;
 }
