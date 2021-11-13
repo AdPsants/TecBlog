@@ -17,8 +17,10 @@
 <hr>
 <h1 algin="center">Text markup language</h1><br>
 <ul>
-    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="blank">HTML5</a></li>
-    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">CSS3</a></li>
+    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+>HTML5</a></li>
+    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+>CSS3</a></li>
 </ul>
 <hr>
 
