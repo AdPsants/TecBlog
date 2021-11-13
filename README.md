@@ -5,7 +5,7 @@
 <br>
 
 <p>
- ##This project is result of excercing of web development curse, part basic, instructor <em>Jorge Sant Ana</em>
+ ##This project is result of excercice of web development curse, part basic, instructor <em>Jorge Sant Ana</em>
 </p  
 <hr>
 <div algin="center">
