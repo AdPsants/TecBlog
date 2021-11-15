@@ -5,7 +5,7 @@
 <br>
 
 <p>
- ##This project is result of excercice of web development curse, part basic, instructor <em>Jorge Sant Ana</em>
+ This project is result of excercice of web development curse, part basic, instructor <em>Jorge Sant Ana</em>
 </p  
 <hr>
 <div algin="center">
@@ -20,7 +20,8 @@
     <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 >HTML5</a></li>
     <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
->CSS3</a></li>
+>CSS3</a></li><br>
+ <span>Using <a href="https://code.visualstudio.com/">VSCode></a></span>
 </ul>
 <hr>
 
